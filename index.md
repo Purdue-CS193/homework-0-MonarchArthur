@@ -1,8 +1,6 @@
 ## Arthur's First CS193 Homework
 
-### Things I enjoy about CS193
-
-```markdown
+### Things I enjoy about CS19
 
 - No exams
 - 30% of the grade is participation
