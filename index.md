@@ -7,4 +7,4 @@
 - Introduces me to new techniques
 - Programs in Terminal and can use nano
 - utilizes Github
-- Fun activities
+- Fun homework activities
